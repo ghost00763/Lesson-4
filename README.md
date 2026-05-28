@@ -1,1 +1,1 @@
-# Lesson-4
+# Нарезаем аватарки (Cutting up avatars)
